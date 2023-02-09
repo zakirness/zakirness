@@ -1,6 +1,6 @@
 # About me 👨‍💻
 
-## Skills : Unity / WPF // C# / Java / Python / HTML & CSS
+## Skills : Unity / WPF / C# // Java & Kotlin & Android Studio / Python / HTML & CSS
 ### Additional skills : Photoshop / MagicaVoxel
 
 My name is Leonid Zakirov, and I'm a Unity game developer.
