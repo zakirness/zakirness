@@ -1,6 +1,6 @@
 # About me 👨‍💻
 
-## Skills : Unity / WPF / C# / Kotlin / Android Studio
+## Skills : Unity / WPF / C# 
 ### Additional skills : Photoshop / MagicaVoxel
 ### My games on Yandex.Games platform : https://yandex.ru/games/developer?name=Leonid%20Zakirov
 
